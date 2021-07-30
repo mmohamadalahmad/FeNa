@@ -7,7 +7,9 @@
 5-	My project is a simplified way to mimic online calculator that can be found on this webpage: https://www.mdcalc.com/fractional-excretion-sodium-fena#evidence 
 
 6-	Just obtain blood and urine samples. Measure sodium and creatinine levels in both serum and urine and insert the measurements into the calculator. 
+
 7-	Pay attention to the units. 
+
 8-	You can access the App using R by running: 
 runGitHub(repo="FeNa", username = "mmohamadalahmad",ref="main")
 
